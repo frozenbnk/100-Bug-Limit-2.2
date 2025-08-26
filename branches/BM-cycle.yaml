@@ -1,0 +1,95 @@
+- Cryo jump to korok
+- _Korok::D01
+- _Discover<Eagus Bridge>:
+    coord: [986.6666564941406,921.1666717529297]
+- _Korok::Z47
+- _Material<Courser Bee Honey,1>:
+    coord: [926.25, 255.5]
+- _Korok::Z37
+- .item(Grab food):
+    comment: 4 endura, 2 hearty
+    icon: material
+    coord: [829, 235]
+- _Shrine::KayaWan
+- _Cook<Cook food>:
+    notes: 3x 2 endura carrots, 1x 3 endura shroom, 1x 2 endura shroom, 2x 1 endura
+      shroom, 2x 5 hearty radish + durian
+    coord: [869.5, 186.5]
+- _Material<Hyrule Bass,4>:
+    coord: [815.5, 130.5]
+- Magnesis up chest:
+    comment: Select option 2
+    icon: korok-magnesis
+    notes: Riverbed Reward
+    coord: [846, 137]
+- _Equipment::Weapon<Axe>:
+    coord: [928.9298193299019,174.4446054917653]
+- .boss(Take Horse):
+    coord: [886,162.25]
+- _Korok::Z48
+- _Korok::Z49
+- .boss(Leave Horse here):
+    icon: horse
+    coord: [1601.75,505.5]
+- Tree Launch to Z60:
+    coord: [1578,499]
+- _Korok::Z60
+- _Warp::Shrine::MonyaToma
+- .item(Take horse):
+    coord: [-1551, -1781]
+    comment: .important(take a different horse than the one already out)
+- _Tod::Night:
+    coord: [-1541.5,-1798.25]
+    comment: For Stalnox
+- _Korok::K17
+- _Korok::K18
+- _Korok::K16
+- _Boss::Hinox::Stal:
+    comment: Use 3 fury
+    notes: If Dinraal spawns get claw
+    coord: [-1289, -2108]
+- _Korok::K12
+- _Korok::K10
+- Use gale:
+    coord: [-1173.5,-2649]
+    icon: medoh-done
+- _Korok::H38
+- _Korok::H59
+- _Shrine::RinOyaa
+- _Tod::Morning:
+    coord: [-1666, -2552.5]
+- Talk to .npc(Juannelle):
+    icon: npc
+    notes: Stalhorse - Pictured!
+    coord: [-1652, -2587]
+- _Korok::H37
+- _Korok::H52
+- _Korok::H58
+- _Korok::H62
+- .boss(Shoot Dinraal):
+    comment: Shoot claw
+    icon: tots
+- _Discover<Pondo's Lodge>:
+    coord: [-2078, -2094.5]
+- Use gale:
+    coord: [-2133,-2050]
+    icon: medoh-done
+- _Tower::Hebra
+- _Material<Lizalfos Tail>:
+    icon: malice
+    coord: [-2274,-1900.5]
+- _Chest<Falcon Bow>:
+    coord: [-2309.5, -1879.5]
+- _Korok::H67
+- _Korok::H70
+- _Korok::H69
+- _Korok::R01
+- _Korok::K22
+- _Korok::R04
+- Use gale:
+    coord: [-2598,-1438]
+    icon: medoh-done
+- _Korok::H73
+- _Shrine::DunbaTaag
+- _Warp::Shrine::MonyaToma:
+    color: blue
